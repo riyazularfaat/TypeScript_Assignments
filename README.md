@@ -110,12 +110,6 @@ Example result:
 - Input: `[1, 2, 3, 4, 5, 6]` and `[3, 4, 5, 6, 7, 8, 9]`
 - Output: `[3, 4, 5, 6]`
 
-## Demo Values At The Bottom
-
-The arrays `arr1` and `arr2` are sample inputs used to test `getIntersection`.
-
-The final `console.log(getIntersection(arr1, arr2))` line prints the overlapping values in both arrays.
-
 ## Summary
 
 This file demonstrates several TypeScript fundamentals:
