@@ -1,5 +1,4 @@
 # Assignment - 01
-# TypeScript Solutions README
 
 ## Problem 01: `filterEvenNumbers`
 
